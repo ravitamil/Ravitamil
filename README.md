@@ -4,7 +4,7 @@
 
 Chennai, India · 5+ years in QA across banking, fintech, and edtech
 
-[Portfolio](https://ravikumar-tamilmani.ravitamil-exe.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/ravikumar-tamilmani-095a85146/) · [Email](mailto:travitamil@gmail.com)
+[Portfolio](https://ravitamil.github.io/) · [LinkedIn](https://www.linkedin.com/in/ravikumar-tamilmani-095a85146/) · [Email](mailto:travitamil@gmail.com)
 
 ## About me
 
@@ -47,7 +47,7 @@ Outside my professional QA work, I explore mobile product development and contri
 | [Thing](https://github.com/ravitamil/thing-standby) | An Android StandBy-style desk and bedside clock with multiple clock faces and motion-based stand detection. | Kotlin, Jetpack Compose |
 | [Flash](https://github.com/ravitamil/flash) | Habit and task tracking with recurring tasks, notes, duration planning, and task analytics. | Flutter/Dart; extends [Streak by InlitX](https://github.com/InlitX/streak) |
 | [Zeus](https://github.com/ravitamil/Zeus) | An offline Android gym log with exercise guidance, fitness calculators, and accent customization. | Flutter/Dart; enhanced fork of [GymMane by InlitX](https://github.com/InlitX/GymMane) |
-| [Playwright Java Page Object Model](https://github.com/ravitamil/Playwright-Java-PageObjectModel) | A browser-automation reference using Java, TestNG, ExtentReports, and Jenkins. | Fork of [naveenanimation20/Playwright-Java-PageObjectModel](https://github.com/naveenanimation20/Playwright-Java-PageObjectModel) |
+| [Playwright Java Quality Lab](https://github.com/ravitamil/playwright-java-quality-lab) | UI + API automation, isolated parallel TestNG, screenshots, video, traces, ExtentReports and Chromium/Firefox/WebKit CI. [View executed evidence](https://ravitamil.github.io/quality-lab/). | Original synthetic QA showcase; AI-assisted implementation and executed validation. |
 
 Forked projects retain their upstream authors' credit. Professional experience above is separate from these public repositories.
 
@@ -59,4 +59,4 @@ Forked projects retain their upstream authors' credit. Professional experience a
 
 ## Connect
 
-For my experience and project overview, visit my [portfolio](https://ravikumar-tamilmani.ravitamil-exe.chatgpt.site/). You can also find me on [LinkedIn](https://www.linkedin.com/in/ravikumar-tamilmani-095a85146/) or reach me at [travitamil@gmail.com](mailto:travitamil@gmail.com).
+For my experience and project overview, visit my [portfolio](https://ravitamil.github.io/). You can also find me on [LinkedIn](https://www.linkedin.com/in/ravikumar-tamilmani-095a85146/) or reach me at [travitamil@gmail.com](mailto:travitamil@gmail.com).
