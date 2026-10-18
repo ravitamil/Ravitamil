@@ -43,6 +43,7 @@ Outside my professional QA work, I explore mobile product development and contri
 
 | Project | What it explores | Stack / attribution |
 | --- | --- | --- |
+| [DinoPlayer](https://github.com/ravitamil/DinoPlayer) | Android video playback with offline subtitle packs, incremental captions, resumable jobs, subtitle editing/export, and shared appearance preferences. [Download preview](https://github.com/ravitamil/DinoPlayer/releases/tag/v0.43). | Java, ExoPlayer, Sherpa-ONNX; enhanced derivative of [Just Player](https://github.com/moneytoo/Player), with AI-assisted implementation. Hindi translation is experimental. |
 | [Buddy — Community Edition](https://github.com/ravitamil/Buddy-FOSS) | Offline personal finance, multi-wallet transactions, budgets, group expense splitting, debt planning, and JSON backups. | React Native, Expo, TypeScript, Tamagui |
 | [Thing](https://github.com/ravitamil/thing-standby) | An Android StandBy-style desk and bedside clock with multiple clock faces and motion-based stand detection. | Kotlin, Jetpack Compose |
 | [Flash](https://github.com/ravitamil/flash) | Habit and task tracking with recurring tasks, notes, duration planning, and task analytics. | Flutter/Dart; extends [Streak by InlitX](https://github.com/InlitX/streak) |
